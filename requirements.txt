@@ -1,0 +1,6 @@
+pandas 
+matplotlib
+tensorflow
+numpy
+uuid
+-e .
